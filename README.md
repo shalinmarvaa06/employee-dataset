@@ -79,7 +79,7 @@ The project includes Pivot Tables to analyze:
 
 ## Dashboard
 
-![Dashboard](dashboard-employee)
+![Dashboard](dashboard-employee.jpg)
 
 The interactive dashboard includes:
 
